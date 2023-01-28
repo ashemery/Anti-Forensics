@@ -3,7 +3,7 @@ A Repository to Track Anti-Forensic Techniques
 
 This list is built based on the response of the #DFIR community and the techniques we currently cover in our Anti-Forensics course.
 
-## Question was: Do you have any cool Anti-Forensic ideas to share? #DFIR #DigitalForensics
+## Do you have any cool Anti-Forensic ideas to share? #DFIR #DigitalForensics
 https://twitter.com/binaryz0ne/status/1618828773268520961
 
 ## Data, Web, and Application Level
