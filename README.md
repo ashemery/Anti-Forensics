@@ -16,7 +16,7 @@ https://twitter.com/binaryz0ne/status/1618828773268520961
 - "If you're using a web shell, disable IIS logging via appcmd"
 @keydet89, https://twitter.com/keydet89/status/1618952758287286273
 
-## Operating System and Virtualization Related
+## Operating System, Virtualization, and Cloud Related
 - "Timestomping Windows Registry Keys"
 @inversecos, https://twitter.com/inversecos/status/1618862849572605955
 - "As you're leaving the system, clear ShimCache"
@@ -26,6 +26,17 @@ https://twitter.com/binaryz0ne/status/1618828773268520961
 @keydet89, https://twitter.com/keydet89/status/1618954586685075459
 - "I had my recent case where Dharma ransomware deletes the VSS and event logs thru a script called "purgememory.ps1" Pretty much the same as what this article mentioned"
 @r3nzsec, https://twitter.com/r3nzsec/status/1618862323221004289
+- "#mobile
+-Use iCloud Photos
+-Sync data
+-Turn off iCloud photos
+-delete local files
+-daily use leave iCloud off
+-capture new media
+-turn on sync when needed/view sync data then turn back off and repeat
+If phy device is acquired examiner must dig for artifacts iCloud was used"
+@Scott_Kjr, https://twitter.com/Scott_Kjr/status/1619157873011085312
+
 
 ## Logs Related
 - "Editing of existing EVTX entries"
