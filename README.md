@@ -6,11 +6,20 @@ This list is built based on the response of the #DFIR community and the techniqu
 ## Do you have any cool Anti-Forensic ideas to share? #DFIR #DigitalForensics
 https://twitter.com/binaryz0ne/status/1618828773268520961
 
-## Data, Web, and Application Level
-- File Formats Manupilation: PDF, ZIP, DOCX, RAR, 7zip, etc
+## Data, Web, and Application Related
+- File Formats Manupilation: 
+-- PDF: modify the structure of the file to hide objects
+-- ZIP: modify the structure of the file to hide other data/files
+-- DOCX: extract and hide other content within the structure, all you need to do is change them to .xml
+-- RAR, 7zip: modify their structures to hold/hide other data
+-- etc
 - Data Hiding
 - Steganography
+-- LSB
 - Encryption
+-- EFS, Bit Locker, GnuPG, AES
+-- TreuCrypt, VeraCrypt, etc
+-- Others
 "Encrypt all the things"
 @rwx_08, https://twitter.com/rwx_08/status/1618904019816292355
 - "If you're using a web shell, disable IIS logging via appcmd"
