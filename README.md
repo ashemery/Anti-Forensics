@@ -1,4 +1,4 @@
-# Anit-Forensics
+# Anti-Forensics
 A Repository to Track Anti-Forensic Techniques
 
 This list is built based on the response of the #DFIR community and the techniques we currently cover in our Anti-Forensics course.
