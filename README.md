@@ -48,6 +48,8 @@ If phy device is acquired examiner must dig for artifacts iCloud was used"
 
 
 ## Logs Related
+- Modify Linux and Apache Logs
+- Timestomp Logs
 - "Editing of existing EVTX entries"
 @inversecos, https://twitter.com/inversecos/status/1618862849572605955
 - "You can EDIT existing entries inside EVTX files to change what the log entries say. Dont trust yo logs ;)"
@@ -57,7 +59,10 @@ If phy device is acquired examiner must dig for artifacts iCloud was used"
 - "The Audit Log was Cleared: https://youtu.be/00EwvDKaKyQ One of my favorites"
 @Cyb3rSn0rlax, https://twitter.com/Cyb3rSn0rlax/status/1619002937296179200
 
+
 ## File System Related
+- Timestomping Files
+- 
 - "time stomping FN attribute of the MFT (most analysts dont know this is even possible)"
 - "tampering with $J to evade timestomp detection"
 @inversecos, https://twitter.com/inversecos/status/1618862849572605955
