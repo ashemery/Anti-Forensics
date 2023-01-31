@@ -24,6 +24,8 @@ https://twitter.com/binaryz0ne/status/1618828773268520961
 @rwx_08, https://twitter.com/rwx_08/status/1618904019816292355
 - "If you're using a web shell, disable IIS logging via appcmd"
 @keydet89, https://twitter.com/keydet89/status/1618952758287286273
+- [Data hiding lab](https://articles.forensicfocus.com/2013/08/22/detecting-forged-altered-images/)
+- [BMAP tool for data hiding](https://www.computersecuritystudent.com/FORENSICS/HIDING/lesson1/index.html)
 
 ## Operating System, Virtualization, and Cloud Related
 - "Timestomping Windows Registry Keys"
@@ -45,7 +47,7 @@ https://twitter.com/binaryz0ne/status/1618828773268520961
 -turn on sync when needed/view sync data then turn back off and repeat
 If phy device is acquired examiner must dig for artifacts iCloud was used"
 @Scott_Kjr, https://twitter.com/Scott_Kjr/status/1619157873011085312
-
+- [Detecting Linux Anti-Forensics: Timestomping](https://www.inversecos.com/2022/08/detecting-linux-anti-forensics.html?m=1)
 
 ## Logs Related
 - Modify Linux and Apache Logs
@@ -58,7 +60,7 @@ If phy device is acquired examiner must dig for artifacts iCloud was used"
 @keydet89, https://twitter.com/keydet89/status/1618952758287286273
 - "The Audit Log was Cleared: https://youtu.be/00EwvDKaKyQ One of my favorites"
 @Cyb3rSn0rlax, https://twitter.com/Cyb3rSn0rlax/status/1619002937296179200
-
+- [Detecting Linux Anti-Forensics Log Tampering](https://www.inversecos.com/2022/06/detecting-linux-anti-forensics-log.html)
 
 ## File System Related
 - Timestomping Files
