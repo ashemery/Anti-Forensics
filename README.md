@@ -61,8 +61,13 @@ If phy device is acquired examiner must dig for artifacts iCloud was used"
 
 
 ## File System Related
+- NTFS File Tunneling
+- Hiding Data in Slack Space (e.g. using Slacker)
+- Hidden Volumes (WDM, Diskpart, TrueCrypt/VeraCrypt, etc)
+- Alternate Data Streams (ADS)
 - Timestomping Files
-- 
+- Hiding Data in $EA Attributes
+- File System Corruption: data destruction and wiping
 - "time stomping FN attribute of the MFT (most analysts dont know this is even possible)"
 - "tampering with $J to evade timestomp detection"
 @inversecos, https://twitter.com/inversecos/status/1618862849572605955
