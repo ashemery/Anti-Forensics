@@ -26,13 +26,18 @@ https://twitter.com/binaryz0ne/status/1618828773268520961
 @keydet89, https://twitter.com/keydet89/status/1618952758287286273
 
 ## Operating System, Virtualization, and Cloud Related
+- GOD Mode
+- Rootkits
+- Deleted Registry Files and Shadow Copies
+- Hiding Data in Windows Registry
+- Portable VM
+- "bring in your badness on a VM, delete it when you're done"
+@keydet89, https://twitter.com/keydet89/status/1618954586685075459
 - "Timestomping Windows Registry Keys"
 @inversecos, https://twitter.com/inversecos/status/1618862849572605955
 - "As you're leaving the system, clear ShimCache"
 - "If you're in over RDP, disable tracking (JumpLists, etc.) for the user account"
 @keydet89, https://twitter.com/keydet89/status/1618952758287286273
-- "bring in your badness on a VM, delete it when you're done"
-@keydet89, https://twitter.com/keydet89/status/1618954586685075459
 - "I had my recent case where Dharma ransomware deletes the VSS and event logs thru a script called "purgememory.ps1" Pretty much the same as what this article mentioned"
 @r3nzsec, https://twitter.com/r3nzsec/status/1618862323221004289
 - "#mobile
