@@ -28,7 +28,7 @@ https://twitter.com/binaryz0ne/status/1618828773268520961
 ## Operating System, Virtualization, and Cloud Related
 - GOD Mode
 - Rootkits
-- Deleted Registry Files and Shadow Copies
+- Deleted Registry Keys/Values and Shadow Copies
 - Hiding Data in Windows Registry
 - Portable VM
 - "bring in your badness on a VM, delete it when you're done"
